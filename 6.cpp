@@ -5,8 +5,8 @@
 #include <stdio.h>
 #include <math.h>
 int main(){
-    int a=87653142;
-//    scanf("%d",&a);
+    int a;
+    scanf("%d",&a);
     int t=0,k=0;
 
     while (a!=0){
